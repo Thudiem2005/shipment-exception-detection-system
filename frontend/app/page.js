@@ -1,3 +1,4 @@
+export const dynamic = "force-dynamic";
 import { headers } from "next/headers";
 
 async function fetchHealth() {
